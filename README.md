@@ -4,7 +4,7 @@
 <h2 align="center">I'm a Developer<br></h2>
 <div align="center">
 <a href="https://discord.com/users/836604163638165514">
-  <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/836604163638165514" align="center"/>
 </a>
 </div>
 <p align="center">
