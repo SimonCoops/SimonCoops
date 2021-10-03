@@ -1,14 +1,18 @@
-
-## Hey 👋, I'm SimonCoops! ![](https://komarev.com/ghpvc/?username=Itz-Hyperz&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/kbNXRUPX3Z) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://main.frontlinemods.com/)
-
-
-<p align="center">
-<a href="https://github.com/SimonCoops">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Itz-Coopsz&show_icons=true&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Coopr&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<h1 align="center">👋 Hey, I'm Simon!</h1>
+<br>
+<h2 align="center">I'm a Developer<br></h2>
+<div align="center">
+<a href="https://discord.com/users/836604163638165514">
+  <img src="https://lanyard-profile-readme.vercel.app/api/479456028967305247" align="center"/>
 </a>
+</div>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SimonCoops&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true">
+  <br>  
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonCoops&hide_border=true&theme=react&layout=compact">
 </p>
-
----
-
-<h3 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h3>
+<hr>
+<h2 align="center">Make sure to ⭐ Star any Projects you like! <3</h2>
+<h3 align="center"><a href='https://simonthedev.dev' target="_blank">My Website</a></h3>
+<h3 align="center"><a href='mailto: hello@simonthedev.dev' target="_blank">Email Me</a></h3>
