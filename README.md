@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cooper The Dev</h1>
 <h3 align="center">I like to code and develop and I am from the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simoncoops&label=Profile%20views&color=0e75b6&style=flat" alt="simoncoops" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simoncoops" alt="simoncoops" /></a> </p>
 
 - 🔭 I’m currently working on **Cooper Bot V1**
 
