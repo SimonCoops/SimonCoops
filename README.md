@@ -14,5 +14,5 @@
 </p>
 <hr>
 <h2 align="center">Make sure to ⭐ Star any Projects you like! <3</h2>
-<h3 align="center"><a href='https://simonthedev.dev' target="_blank">My Website</a></h3>
+<h3 align="center"><a href='https://topeagledevelopment.com/' target="_blank">My Website</a></h3>
 <h3 align="center"><a href='mailto: hello@simonthedev.dev' target="_blank">Email Me</a></h3>
